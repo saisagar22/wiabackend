@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2a$04$Vbug2lwwJGrvUXTj6z7ff.97IzVBkrJ1XfApfGNl.Z695zqcnPYra",
+    "firstname": "admin",
+    "lastname": null,
+    "authorities": [
+      {
+        "id": 2,
+        "name": "ROLE_ADMIN",
+        "authority": "ROLE_ADMIN"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "username": "ayush",
+    "password": "$2a$04$Vbug2lwwJGrvUXTj6z7ff.97IzVBkrJ1XfApfGNl.Z695zqcnPYra",
+    "firstname": "rathi",
+    "lastname": null,
+    "authorities": [
+      {
+        "id": 1,
+        "name": "ROLE_USER",
+        "authority": "ROLE_USER"
+      }
+    ]
+  }
+]
